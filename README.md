@@ -5,6 +5,8 @@ Built a responsive user interface using React.
 Managed application state with useState and lifecycle events with useEffect.
 
 Designed modular, reusable components for login and registration forms.
+<img width="691" height="559" alt="image" src="https://github.com/user-attachments/assets/f9614b49-3066-4ce3-ae4c-686ea8678b67" />
+
 
 Styled components using inline styling and CSS for a modern look and feel.
 
